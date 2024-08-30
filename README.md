@@ -14,5 +14,17 @@ This project is a prototype of a Healthcare Assistant using Retrieval-Augmented 
 - **User-Friendly Interface**: Simple and intuitive interface for users to interact with the assistant.
 
 ## Project Structure
+- Main application file: app.py
+- Model file: model.py
+- Vector Database for RAG: vectorstore.py
+- Output text cleaning steps: preprocessing.py
 
-healthcare-assistant/ │ ├── src/ │ ├── app.py # Main application file │ ├── model.py # Model and RAG implementation │ └── vector_store/ # Directory containing vector database files │ ├── frontend/ │ ├── index.html # HTML file for the user interface │ ├── styles.css # CSS file for styling the user interface │ └── script.js # JavaScript file for client-side functionality │ └── README.md # Project documentation
+## Setup Instructions
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/healthcare-assistant.git
+   cd healthcare-assistant
+   ```
+   
