@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchain-google-genai
+langchainhub
+chromadb
+langchain
+langchain-huggingface
+pypdf
+gradio
+torch
+sentence_transformers
+cohere
+langchain-cohere
